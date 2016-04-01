@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:HRSTemplesOfFood.xcodeproj">
+      location = "self:/Users/sos01/dev/playground/HRSTemplesOfFood/TemplesOfFood.xcodeproj">
    </FileRef>
 </Workspace>
